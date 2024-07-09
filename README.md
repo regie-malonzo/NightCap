@@ -1,4 +1,10 @@
 # Boilerplate: Fullstack with Sass
+# Group Project
+
+* Uses an Api from The cocktail DB
+* Use Api Search function to look for a cocktail
+
+
 
 ## Setup
 
