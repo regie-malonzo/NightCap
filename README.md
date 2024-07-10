@@ -4,6 +4,14 @@
 * Uses an Api from The cocktail DB
 * Use Api Search function to look for a cocktail
 
+ ### Tech Stack
+ * express
+ * knex
+ * sqlite3
+ * superagent
+ * react
+ * typescript
+
 
 
 ## Setup
@@ -12,10 +20,10 @@
 
 This repo includes:
 
-* a single, simple API endpoint (`/api/v1/fruits`)
+* a single, simple API endpoint (`/api/v1/cocktails`)
 * a single React component (`<App />`)
-* an example database module (`server/db/fruits.js`)
-* an API client module (`client/apis/fruits.js`)
+* an example database module 
+* an API client module 
 * configuration for Vitest and testing library
 * configuration for server-side debugging in VS Code
 * configuration for preprocessing Sass
