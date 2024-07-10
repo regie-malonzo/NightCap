@@ -1,4 +1,3 @@
-# Boilerplate: Fullstack with Sass
 # Group Project
 
 * Uses an Api from The cocktail DB
